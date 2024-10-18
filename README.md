@@ -29,14 +29,44 @@ Before running the application, ensure you have the following installed:
 
 ### Create a virtual environment
 
+```bash
 python -m venv venv
 source venv/bin/activate # On macOS/Linux
 venv\Scripts\activate # On Windows
+```
 
+```bash
 pip install -r requirements.txt
+```
 
 ### Before running the application, update the following
 
 OpenAI API Key: Set your OpenAI API key by replacing the placeholder in the code
 
 Database Credentials: Update the KnowledgeGraph connection parameters with your credentials.
+
+` After that you can Intract with Model and Ask questions Related to Data.`
+
+### Graph Visualization Steps on FalkorDB:
+
+#### Step NO 01 :
+
+Go to this URl
+`https://browser.falkordb.com/graph`
+
+- You can see the Number of Nodes and Edges
+
+![Step.01](01.png)
+
+#### Step No.02 :
+
+Write any Query to access and visuallize your Data after Writing the Query Click on Run.
+
+![Step.02](02.png)
+
+### Step No.03:
+
+Here You can see the All the Node , Edges and their Relation in the form of Graph and details about the selected node.
+![Step.03](03.png)
+
+![Knowledge Graph Diagram](04.png)
