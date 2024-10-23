@@ -56,17 +56,17 @@ Go to this URl
 
 - You can see the Number of Nodes and Edges
 
-![Step.01](01.png)
+![Step.01](assets/01.png)
 
 #### Step No.02 :
 
 Write any Query to access and visuallize your Data after Writing the Query Click on Run.
 
-![Step.02](02.png)
+![Step.02](assets/02.png)
 
 ### Step No.03:
 
 Here You can see the All the Node , Edges and their Relation in the form of Graph and details about the selected node.
-![Step.03](03.png)
+![Step.03](assets/03.png)
 
-![Knowledge Graph Diagram](04.png)
+![Knowledge Graph Diagram](assets/04.png)
