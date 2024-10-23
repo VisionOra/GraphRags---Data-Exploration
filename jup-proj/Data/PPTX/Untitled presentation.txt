@@ -1,0 +1,8 @@
+Dynamic Multi-Scale Topological Representation For Enhancing Network
+Intrusion Detection
+A B S T R A C T:
+Network intrusion detection systems (NIDS) play a crucial role in maintaining network security.This fundamental oversight leads to challenges in handling class-imbalanced and highly dynamic network traﬃc.In this paper, we propose a novel dynamic multi-scale topological representation (DMTR) method for improving network intrusion detection performance. Our DMTR method achieves the perception of multi-scale topology and exhibits strong robustness. It provides accurate and stable representations even in the presence of data distribution shifts and class imbalance problems.Experiments on four publicly available network traﬃc datasets demonstrate the feasibility and eﬀectiveness of the proposed DMTR method in handling class imbalanced and highly dynamic network traﬃc.
+Introduction:
+The constant emergence of cybersecurity incidents has caused enor-
+mous economic losses to enterprises and individuals (Martins et al.,
+2022; Catillo et al., 2023).

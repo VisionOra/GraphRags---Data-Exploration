@@ -1,0 +1,5 @@
+OPENAI_API_KEY="Enter your OpenAi_Api"
+FALKOR_HOST="Enter you Falkor Host"
+FALKOR_USERNAME="Enter your Falkor UserName"
+FALKOR_PASSWORD="Your Password"
+FALKOR_PORT=Your Port Number
